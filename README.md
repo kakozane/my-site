@@ -1,3 +1,2 @@
-# hirok.io
 
-My personal website & blog.
+My personal website 
