@@ -1,0 +1,37 @@
+{
+  "id": "3779872",
+  "name": "my-site",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "27365027",
+      "name": "discord",
+      "font_class": "discord",
+      "unicode": "ebf8",
+      "unicode_decimal": 60408
+    },
+    {
+      "icon_id": "551512",
+      "name": "微信",
+      "font_class": "wechat",
+      "unicode": "e619",
+      "unicode_decimal": 58905
+    },
+    {
+      "icon_id": "837212",
+      "name": "spotify",
+      "font_class": "spotify",
+      "unicode": "e807",
+      "unicode_decimal": 59399
+    },
+    {
+      "icon_id": "8554914",
+      "name": "pinterest-line",
+      "font_class": "pinterest-line",
+      "unicode": "e6c9",
+      "unicode_decimal": 59081
+    }
+  ]
+}
